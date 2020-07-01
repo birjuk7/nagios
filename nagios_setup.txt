@@ -116,4 +116,7 @@ define service {
 save & exit
 service nagios restart
 
-
+http://your-server-ip-address/nagios/
+click on hosts
+here you go
+***
